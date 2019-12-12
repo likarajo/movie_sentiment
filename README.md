@@ -28,7 +28,7 @@ Kaggle: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 * Dense layer
     * activation function
 <br>
-[Notebook]('model_NN.ipynb')
+[Notebook](https://github.com/likarajo/movie_sentiment/blob/master/model_NN.ipynb)
 
 ### Convolutional Neural Network (CNN)
 Primarily used for 2D data classification, such as images. Work well with 1D text data as well. Tries to find specific features in the first layer. In the next layers, the initially detected features are joined together to form bigger features. Ref: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
@@ -43,7 +43,7 @@ Primarily used for 2D data classification, such as images. Work well with 1D tex
 * Dense layer
     * activation function
 <br>
-[Notebook]('model_CNN.ipynb')
+[Notebook](https://github.com/likarajo/movie_sentiment/blob/master/model_CNN.ipynb)
 
 ### Recurrent Neural Network (CNN)
 **Long Short Term Memory Network** (LSTM)<br>
@@ -56,7 +56,7 @@ Recurrent neural networks variant
 * Dense layer
     * activation function
 <br>
-[Notebook]('model_RNN.ipynb')
+[Notebook](https://github.com/likarajo/movie_sentiment/blob/master/model_RNN.ipynb)
 
 ## Techniques used
 * ***Keras*** **Embedding Layer**
